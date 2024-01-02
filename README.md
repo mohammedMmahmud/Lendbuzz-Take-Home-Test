@@ -42,7 +42,7 @@ A step by step series of examples that tell you how to get a development env run
    ```  
 
 3. Now register the Microservices services using Postman. Go to `http://localhost:8000/services` And make sure you change it to post method. Screenshot below shows how to do it.
-     ![alt text](screenshots/post.png "Register")
+     ![alt text](screenshots/docker.png "Register")
      <br>
      This is how you register all the services. Here are the following URLs for each service:
      <br>
